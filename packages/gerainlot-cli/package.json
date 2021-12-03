@@ -1,0 +1,26 @@
+{
+  "name": "@gerainlot/gerainlot-cli",
+  "version": "0.0.1",
+  "description": "Init an material project quickly",
+  "keywords": [
+    "gerainlot",
+    "cli",
+    "gerainlot-cli"
+  ],
+  "author": "zhangshuai <15806504132@163.com>",
+  "homepage": "https://github.com/gerainlotZS/gerainlot-cli#readme",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/gerainlotZS/gerainlot-cli/issues"
+  }
+}

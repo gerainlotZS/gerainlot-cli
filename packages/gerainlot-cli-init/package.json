@@ -1,0 +1,21 @@
+{
+  "name": "@gerainlot/gerainlot-cli-init",
+  "version": "0.0.1",
+  "description": "A module of gerainlot CLI to init a project",
+  "author": "zhangshuai <15806504132@163.com>",
+  "homepage": "https://github.com/gerainlotZS/gerainlot-cli/packages/gerainlot-cli-init#readme",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/gerainlotZS/gerainlot-cli/issues"
+  }
+}
